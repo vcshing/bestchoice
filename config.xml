@@ -7,7 +7,7 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="index.html" />
+   <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -62,12 +62,4 @@
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.1" />
     <plugin name="cordova-plugin-statusbar" spec="~1.0.1" />
-	<plugin name="cordova-admob" />
-	<plugin name="cordova-plugin-inappbrowser" />
-	<plugin name="cordova-plugin-vibration" />
-	<plugin name="cordova-plugin-dialogs" />
-	<plugin name="https://github.com/VersoSolutions/CordovaClipboard" />
-	<plugin name="cordova-plugin-x-toast" />
-	<plugin name="cordova-plugin-x-socialsharing" />
-	<plugin name="cordova-plugin-network-information" />
 </widget>
